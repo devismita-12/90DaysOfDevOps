@@ -1,0 +1,7 @@
+DEVOPS
+DevOps is a software development and IT operations process that helps to improve the collaboration between developers and operators by automating the Deployment, configuration, monitoring, and management of applications.
+It allows organizations to serve their customers better and compete more strongly in the market. In simple words, DevOps can be defined as an alignment of development and IT operations with better communication and collaboration.
+Before DevOps, the development and operation team worked in complete isolation.
+Testing and Deployment were isolated activities done after design-build. Hence they consumed more time than actual build cycles.
+Without using DevOps, team members spend a large amount of their time testing, deploying, and designing instead of building the project.
+Manual code deployment leads to human errors in production.
